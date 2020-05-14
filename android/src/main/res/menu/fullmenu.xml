@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/previous"
+        android:icon="@drawable/developers"
+        android:title="Developers"
+        app:showAsAction="always"  />
+
+    <item android:id="@+id/next"
+        android:icon="@drawable/credits"
+        android:title="Credits"
+        app:showAsAction="always"  />
+
+    <item android:id="@+id/tutorial"
+        android:icon="@drawable/infoicon"
+        android:title="Tutorial"
+        app:showAsAction="always"  />
+
+    <item android:id="@+id/settings"
+        android:icon="@drawable/whitesettings32"
+        android:title="Credits"
+        app:showAsAction="always"  />
+
+</menu>

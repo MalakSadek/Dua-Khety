@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Dua-Khety</string>
+    <string name="drawer_open">Drawer opened</string>
+    <string name="drawer_close">Drawer closed</string>
+    <string name="A">http://www.egyptianhieroglyphs.net/gardiners-sign-list/man-and-his-occupations/</string>
+    <string name="B">http://www.egyptianhieroglyphs.net/gardiners-sign-list/woman-and-her-occupations/</string>
+    <string name="C">http://www.egyptianhieroglyphs.net/gardiners-sign-list/anthropomorphic-deities/</string>
+    <string name="D">http://www.egyptianhieroglyphs.net/gardiners-sign-list/parts-of-the-human-body/</string>
+    <string name="E">http://www.egyptianhieroglyphs.net/gardiners-sign-list/mammals/</string>
+    <string name="F">http://www.egyptianhieroglyphs.net/gardiners-sign-list/parts-of-mammals/</string>
+    <string name="G">http://www.egyptianhieroglyphs.net/gardiners-sign-list/birds/</string>
+    <string name="H">http://www.egyptianhieroglyphs.net/gardiners-sign-list/parts-of-birds/</string>
+    <string name="I">http://www.egyptianhieroglyphs.net/gardiners-sign-list/amphibious-animals-reptiles-etc/</string>
+    <string name="K">http://www.egyptianhieroglyphs.net/gardiners-sign-list/fish-and-parts-of-fish/</string>
+    <string name="L">http://www.egyptianhieroglyphs.net/gardiners-sign-list/invertebrates-and-lesser-animals/</string>
+    <string name="M">http://www.egyptianhieroglyphs.net/gardiners-sign-list/trees-and-plants/</string>
+    <string name="N">http://www.egyptianhieroglyphs.net/gardiners-sign-list/sky-earth-water/</string>
+    <string name="O">http://www.egyptianhieroglyphs.net/gardiners-sign-list/buildings-parts-of-buildings-etc/</string>
+    <string name="P">http://www.egyptianhieroglyphs.net/gardiners-sign-list/ships-and-parts-of-ships/y</string>
+    <string name="Q">http://www.egyptianhieroglyphs.net/gardiners-sign-list/domestic-and-funerary-furniture/</string>
+    <string name="R">http://www.egyptianhieroglyphs.net/gardiners-sign-list/temple-furniture-and-sacred-emblems/</string>
+    <string name="S">http://www.egyptianhieroglyphs.net/gardiners-sign-list/crowns-dress-staves-etc/</string>
+    <string name="T">http://www.egyptianhieroglyphs.net/gardiners-sign-list/warfare-hunting-butchery/</string>
+    <string name="U">http://www.egyptianhieroglyphs.net/gardiners-sign-list/agriculture-crafts-and-professions/</string>
+    <string name="V">http://www.egyptianhieroglyphs.net/gardiners-sign-list/rope-fiber-baskets-bags-etc/</string>
+    <string name="W">http://www.egyptianhieroglyphs.net/gardiners-sign-list/vessels-of-stone-and-earthenware/</string>
+    <string name="X">http://www.egyptianhieroglyphs.net/gardiners-sign-list/loaves-and-cakes/</string>
+    <string name="Y">http://www.egyptianhieroglyphs.net/gardiners-sign-list/writings-games-music/</string>
+    <string name="Z">http://www.egyptianhieroglyphs.net/gardiners-sign-list/strokes/</string>
+    <string name="Aa">http://www.egyptianhieroglyphs.net/gardiners-sign-list/unclassified/</string>
+    <string name="instacropper_title">Crop</string> <!-- Title of toolbar -->
+    <string name="instacropper_crop">Crop</string> <!-- Title of crop action in toolbar -->
+
+
+</resources>
