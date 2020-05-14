@@ -1,5 +1,5 @@
 # Dua-Khety
-A mobile application to translate hieroglyphics (2018)
+A mobile application to translate hieroglyphics (2018).
 
 𓂀𓀀 A Mobile Application That Detects, Classifies & Transliterates Hieroglyphics.
 
