@@ -3,6 +3,8 @@ A mobile application to translate hieroglyphics (2018).
 
 𓂀𓀀 A Mobile Application That Detects, Classifies & Transliterates Hieroglyphics.
 
+![picture alt](https://github.com/MalakSadek/Dua-Khety/blob/master/analyzinglogo.png "Opening Logo")
+
 # Abstract
 Much of the way of life of the ancient Egyptians had been lost as no one was able to decipher the meaning of most of their symbols, Sir Alan Gardiner classified each hieroglyphic with a code that can then be used to search for it to know more about it’s meaning. This hieroglyphic dictionary ended up being thousands of pages long and looking anything up became a tedious task. Even with the emergence of the internet, there still remained the problem of not knowing a hieroglyphic’s Gardiner code to search for it.
 
@@ -20,6 +22,8 @@ For segmentation, this is accomplished using **OpenCV** by converting the bitmap
 The classifier uses the concept of **Siamese networks**. Such a network differs from normal ones by taking as an input pairs of images and a label representing whether they are from the same class or not (displayed as a 0 or 1). In other words, half of what is fed into the network are pairs of images of the same classes with their label as 1, and the other half, two different images from two different classes, with their label as 0. The images are chosen randomly. Recently, this concept has been proven to be helpful in problems using a large number of classes with a small number of images for each class, As for classifying the actual test image, the training images are fed through the network and a feature vector of 640 values is extracteD. Afterwards, the average of all the vectors of the images in a class, is computed and stored in a Comma Separated Values (CSV) file. The same is done for all the classes (157). Coming down to predicting the class number for a new test image, It is fed into the same network and a feature vector of 640 values is extracted as well. Following this, the L1 distance between its feature vector and the previously extracted ones from each class are compared and the smallest five distances are taken as the top five predictions. The iOS application uses **OpenML** while the Android application uses **Tensorflow**.
 
 ***The accuracy for the top prediction is 66%, while the accuracy for the top five predictions is 88%.***
+
+![picture alt](https://github.com/MalakSadek/Dua-Khety/blob/master/Thesis%20Poster.png "Thesis Poster")
 
 Screenshots and videos can be found here: https://malaksadek.wordpress.com/2019/10/15/teeet-the-egyptian-microbus-experience/
 
