@@ -1,2 +1,2 @@
 # Dua-Khety
-A mobile application to translate hieroglyphics 🇪🏜
+A mobile application to translate hieroglyphics ☥𓀀
